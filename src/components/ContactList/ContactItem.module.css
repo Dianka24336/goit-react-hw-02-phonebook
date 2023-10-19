@@ -9,3 +9,8 @@ p {
   border-radius: 5px;
   cursor: pointer;
 }
+
+.delButton:hover,
+.delButton:focus {
+  background-color: lightskyblue;
+}
