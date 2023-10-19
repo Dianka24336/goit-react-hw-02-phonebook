@@ -1,4 +1,4 @@
-import css from 'components/ContactList/ContactItem.module.css';
+import css from './ContactItem.module.css';
 
 export const ContactItem = ({ id, name, number, onDeleteContact }) => {
   return (
